@@ -1,4 +1,9 @@
 ecece
+<<<<<<< HEAD
 tettete
 tetetete
 tetetetete
+=======
+adsded
+sdede
+>>>>>>> teste2
